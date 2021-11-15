@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">WALWAL: Pet care for everyone</string>
+    <string name="textview_about">WALWAL: Pet care for everyone</string>
+    <string name="btn_retrieve">Reload</string>
+    <string name="title">WALWAL</string>
+    <string name="btn_switch">Automatic\nreceiving</string>
+
+    <string name="mobius_address">203.253.128.177</string>
+    <string name="addr_unset">Disconnected</string>
+    <string name="addr_set">Connecting</string>
+
+    <!-- Added by LSC  -->
+    <string name="textview_train_label">Training</string>
+    <string name="textview_train_value">Training</string>
+    <string name="textview_remains_label">Remains</string>
+    <string name="textview_remains_value">"?%</string>
+    <string name="textview_eat_label">Food</string>
+    <string name="textview_eat_value">...</string>
+    <string name="textview_alert_label">alert</string>
+    <string name="textview_alert_value">alert</string>
+
+    <string name="textview_success_label">SUCCESS</string>
+    <string name="textview_success_value">SUCCESS</string>
+
+    <string name="btn_train"></string>
+    <string name="btn_Sitdown"></string>
+    <string name="btn_Wait"></string>
+
+
+</resources>
